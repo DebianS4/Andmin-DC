@@ -1,3 +1,8 @@
+
+🔗 PANEL DE ENLACES
+WhatsApp Grupo Oficial Soporte GitHub Repositorio Versión Estado Visitas
+
+
 # Andmin-DC-by-DCG_LAB
 panel de comfiguracion administrativa para empresas o personal fac bancos clientes todo en una app tipo odoo que facilita tareas de administrar operaciones 
 # Andmin‑DC‑by‑DCG_LAB 🛡️
