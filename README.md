@@ -1,3 +1,5 @@
+📊 ESTADÍSTICAS
+Estadísticas Lenguajes Racha de actividad
 
 🔗 PANEL DE ENLACES
 WhatsApp Grupo Oficial Soporte GitHub Repositorio Versión Estado Visitas
