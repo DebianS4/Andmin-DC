@@ -6,9 +6,7 @@ WhatsApp Grupo Oficial Soporte GitHub Repositorio Versión Estado Visitas
 # Andmin-DC-by-DCG_LAB
 panel de comfiguracion administrativa para empresas o personal fac bancos clientes todo en una app tipo odoo que facilita tareas de administrar operaciones 
 # Andmin‑DC‑by‑DCG_LAB 🛡️
-
-Sistema de panel de configuración administrativa, diseñado para uso personal, pequeñas empresas o gestión de clientes. Funciona de forma similar a Odoo, reuniendo herramientas de control, bancos, operaciones y administración en un solo luga
-
+🖥️🧮🧾💵💰🖨️☎️📟📞🖥️
 ---
 
 ## 🚀 ¿Qué hace?
