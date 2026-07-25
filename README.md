@@ -1,15 +1,15 @@
-📊 ESTADÍSTICAS
-Estadísticas Lenguajes Racha de actividad
+             📊 ESTADÍSTICAS
+      Estadísticas Lenguajes                     Racha de actividad
 
-🔗 PANEL DE ENLACES
-WhatsApp Grupo Oficial Soporte GitHub Repositorio Versión Estado Visitas
+       🔗 PANEL DE ENLACES
+   Grupo Oficial Soporte GitHub Repositorio Versión Estado Visitas
 
 
-# Andmin-DC-by-DCG_LAB
-panel de comfiguracion administrativa para empresas o personal fac bancos clientes todo en una app tipo odoo que facilita tareas de administrar operaciones 
-# Andmin‑DC‑by‑DCG_LAB 🛡️
-🖥️🧮🧾💵💰🖨️☎️📟🖥️
----
+      # Andmin-DC-by-DCG_LAB
+panel de comfiguracion administrativa para empresas o personal fac bancos clientes todo en una app tipo odoo que    facilita tareas administrar operaciones 
+       # Andmin‑DC‑by‑DCG_LAB 🛡️
+         🖥️🧮🧾💵💰🖨️☎️📟🖥️
+                ---
 
 ## 🚀 ¿Qué hace?
 - Gestión completa de clientes y contactos
