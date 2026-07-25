@@ -1,4 +1,4 @@
-             📊 ESTADÍSTICAS
+          📊 ESTADÍSTICAS
       Estadísticas Lenguajes                     Racha de actividad
 
        🔗 PANEL DE ENLACES
